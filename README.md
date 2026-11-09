@@ -1,4 +1,4 @@
-# Hi, I'm Hüseyn Maharramov 👋
+# Hi, I'm Huseyn Maharramov 👋
 
 ### Software Developer · Student · OpenSearch Specialist
 
