@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Hüseyn Maharramov 👋
 
-<!--
-**huseynmhrrmv/huseynmhrrmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer · Student · OpenSearch Specialist
 
-Here are some ideas to get you started:
+I'm a student and developer who enjoys turning ideas into practical software. I've contributed to a range of projects and collaborated with companies on OpenSearch and search-related work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- **Languages:** Java, JavaScript (Node.js), Python, PHP
+- **Focus:** Software development, project collaboration, and search technologies
+
+## A little about me
+
+- 🎓 Student, learning through hands-on project work
+- 💻 Experience contributing to multiple projects
+- 🔎 Worked with companies as an OpenSearch specialist
+- 🤝 Open to collaborating on interesting software projects
